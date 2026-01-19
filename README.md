@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**priyanka-pawar-cse/priyanka-pawar-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! I'm Priyanka Pawar 👋
 
-Here are some ideas to get you started:
+### 🎓 Education
+- *BTech in Computer Science and Engineering* (2025 Batch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- *Languages:* Core Java, JavaScript (ES6+), SQL
+- *DSA:* Arrays, Linear Search, Sorting Algorithms
+- *Web Development:* HTML5, CSS3, React.js (Learning), Node.js (Learning)
+- *Databases:* MySQL, MongoDB
+- *Tools:* Git, GitHub, VS Code
+
+---
+
+### 🚀 My Projects
+- *DSA Visualizer:* A web tool to demonstrate Linear Search using JavaScript.
+- *Java Logic Lab:* Core Java programs for problem-solving.
+[My LinkedIn Profile]
+(https://www.linkedin.com/in/priyanka-pawar-7101a5271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
